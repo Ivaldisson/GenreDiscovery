@@ -275,6 +275,13 @@ Set `DEBUG_PRINT = True` in `config.py` for verbose API call logging.
 
 ---
 
+## ☕ Support
+
+If this fork's been useful to you, consider fueling further development:
+[ko-fi.com/ivaldisson](https://ko-fi.com/ivaldisson)
+
+---
+
 ## 🙏 Acknowledgments
 
 - [Last.fm](https://www.last.fm/) for the music discovery API
